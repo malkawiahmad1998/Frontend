@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#divnav{
+    background: #b1d5d8;
+    
+}
+
+footer{
+    background-color: #b1d5d8;
+    display: block;
+    position: relative;
+    margin-top: 1920px;
+    text-align: center;
+    font-size: x-large;
+}
