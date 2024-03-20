@@ -20,6 +20,7 @@ function operation(){
              finalR = parseInt(num1.value) / parseInt(num2.value);
             break;
         default:
+            
             break;
     }
    
